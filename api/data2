@@ -1,0 +1,24 @@
+{
+  "resultCode": 0,
+  "resultMsg": "操作成功",
+  "signature": null,
+  "resultData": {
+    "msg": "请求成功",
+    "code": "0000",
+    "data": [
+      {
+        "imgUrl": "https://img30.360buyimg.com/jr_image/jfs/t1/105684/12/5365/23829/5decf4d5E348c1592/ffd88d824ccb36f5.png",
+        "name": "这是一个测试服务",
+        "link": "http://member.jr.jd.com/gcmall/#/details?gid=1552"
+      },
+      {
+        "imgUrl": "https://img30.360buyimg.com/jr_image/jfs/t1/105684/12/5365/23829/5decf4d5E348c1592/ffd88d824ccb36f5.png",
+        "name": "这是一个测试服务2",
+        "link": "http://member.jr.jd.com/gcmall/#/details?gid=1552"
+      }
+    ],
+    "success": true
+  },
+  "success": null,
+  "channelEncrypt": 0
+}
