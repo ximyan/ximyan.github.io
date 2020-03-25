@@ -1,0 +1,62 @@
+{
+  "resultCode": 0,
+  "resultMsg": "操作成功",
+  "signature": null,
+  "resultData": {
+    "msg": "请求成功",
+    "code": "0000",
+    "data": [
+      {
+        "imgUrl": "https://img30.360buyimg.com/jr_image/jfs/t1/105684/12/5365/23829/5decf4d5E348c1592/ffd88d824ccb36f5.png",
+        "amount": 10000,
+        "productId": 1978,
+        "exchangeStatus": 3,
+        "goodsId": 1552,
+        "skuPriceDesc": "",
+        "name": "小金库立减券",
+        "link": "http://member.jr.jd.com/gcmall/#/details?gid=1552",
+        "discountAmount": 9,
+        "description": "小金库支付立减10元券"
+      },
+      {
+        "imgUrl": "//img30.360buyimg.com/jr_image/jfs/t1/92267/19/13826/21617/5e5f6dd7E5fe094c7/c759a1ea829751d2.png",
+        "amount": 5000,
+        "productId": 1921,
+        "exchangeStatus": 3,
+        "goodsId": 1501,
+        "skuPriceDesc": "",
+        "name": "白条5元立减券",
+        "link": "http://member.jr.jd.com/gcmall/#/details?gid=1501",
+        "discountAmount": 9,
+        "description": "限京东商城全品类实物商品使用（京东国际、京东众筹、到家、节能减排、车险、虚拟等特例商品除外）"
+      },
+      {
+        "imgUrl": "//img30.360buyimg.com/jr_image/jfs/t1/90382/17/15771/57912/5e749114Ed9e5d7f9/80af6bb7e657ea0f.jpg",
+        "amount": 5000,
+        "productId": 1984,
+        "exchangeStatus": 1,
+        "goodsId": 1556,
+        "skuPriceDesc": "596",
+        "name": "艾菲娜进口葡萄酒300元代金券",
+        "link": "http://member.jr.jd.com/gcmall/#/details?gid=1556",
+        "discountAmount": 9,
+        "description": "限[快买酒官方旗舰店] 店铺指定商品可用"
+      },
+      {
+        "imgUrl": "//img30.360buyimg.com/jr_image/jfs/t1/87977/12/12021/47485/5e3d9c2dEc83fdb44/124f670f154975fc.png",
+        "amount": 300,
+        "productId": 1834,
+        "exchangeStatus": 1,
+        "goodsId": 1427,
+        "skuPriceDesc": "",
+        "name": "京东支付0.3元立减券",
+        "link": "http://member.jr.jd.com/gcmall/#/details?gid=1427",
+        "discountAmount": 9,
+        "description": "京东支付0.3元立减券"
+      }
+    ],
+    "success": true
+  },
+  "success": null,
+  "channelEncrypt": 0
+}
