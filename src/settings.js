@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'ximyan - Vue Admin Template',
+  title: '后台管理模板',
 
   /**
    * @type {boolean} true | false
