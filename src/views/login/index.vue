@@ -49,6 +49,10 @@
       </div>
       -->
 
+            <div class="tips">
+              <a href="demo.html">H5 demo代码片段</a>
+            </div>
+
     </el-form>
   </div>
 </template>
